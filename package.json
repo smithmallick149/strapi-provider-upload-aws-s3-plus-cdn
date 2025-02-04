@@ -21,13 +21,13 @@
     "isProvider": true
   },
   "author": {
-    "email": "stephen@crookneckconsulting.com",
-    "name": "Stephen Trainor"
+    "email": "smithmallick3@gmail.com",
+    "name": "Smith Mallick"
   },
   "maintainers": [
     {
-      "name": "Stephen Trainor",
-      "email": "stephen@crookneckconsulting.com"
+      "name": "Smith Mallick",
+      "email": "smithmallick3@gmail.com"
     }
   ],
   "repository": {
@@ -38,12 +38,13 @@
     "url": "https://github.com/stephent/strapi-provider-upload-aws-s3-plus-cdn/issues"
   },
   "engines": {
-    "node": ">=14.19.1 <=18.x.x",
+    "node": ">=18.0.0 <=20.x.x",
     "npm": ">=6.0.0"
   },
   "license": "SEE LICENSE IN LICENSE",
   "scripts": {
-    "test": "echo \"no tests yet\""
+    "test": "echo \"no tests yet\"",
+    "build": "echo 'Build step completed'"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
