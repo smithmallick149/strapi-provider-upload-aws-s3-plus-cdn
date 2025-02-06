@@ -21,21 +21,21 @@
     "isProvider": true
   },
   "author": {
-    "email": "smithmallick3@gmail.com",
+    "email": "smithmallick149@gmail.com",
     "name": "Smith Mallick"
   },
   "maintainers": [
     {
       "name": "Smith Mallick",
-      "email": "smithmallick3@gmail.com"
+      "email": "smithmallick149@gmail.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/stephent/strapi-provider-upload-aws-s3-plus-cdn.git"
+    "url": "git://github.com/smithmallick149/strapi-provider-upload-aws-s3-plus-cloudfront.git"
   },
   "bugs": {
-    "url": "https://github.com/stephent/strapi-provider-upload-aws-s3-plus-cdn/issues"
+    "url": "https://github.com/smithmallick149/strapi-provider-upload-aws-s3-plus-cloudfront/issues"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
