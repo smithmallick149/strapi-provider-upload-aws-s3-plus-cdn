@@ -1,4 +1,4 @@
-# strapi-provider-upload-aws-s3-plus-cloudfront-cdn
+# strapi-provider-aws-s3-plus-cloudfront-cdn
 
 ## Background
 
