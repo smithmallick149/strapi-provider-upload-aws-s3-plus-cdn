@@ -1,6 +1,6 @@
 {
-  "name": "strapi-provider-upload-aws-s3-plus-cloudfront",
-  "version": "4.1.1",
+  "name": "strapi-provider-upload-aws-s3-plus-cloudfront-cdn",
+  "version": "4.1.2",
   "description": "AWS S3 provider for strapi v4 upload with optional CDN configuration. Adapted from strapi-provider-upload-aws-s3",
   "homepage": "https://strapi.io",
   "keywords": [
@@ -15,7 +15,7 @@
   },
   "main": "./lib",
   "dependencies": {
-    "aws-sdk": "2.1292.0"
+    "aws-sdk": "^2.1643.0"
   },
   "strapi": {
     "isProvider": true
